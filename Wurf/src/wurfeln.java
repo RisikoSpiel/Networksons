@@ -12,7 +12,6 @@ public class wurfeln {
 		int verteidigerNeu = verteidiger;//Anzahl der Einheiten von Verteidiger
 		int cache = 0; //Zahl zum Zwischenspeichern
 		
-		//WAS GEHT AB
 		
 		//Anzahl der Würfeln in Abhängigkeit von der Anzahl der Einheiten
 		if (angreifer == 2){
